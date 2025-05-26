@@ -1,1 +1,219 @@
-# probo-refer-code
+X# probo-referral-code QP7X1M
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Earn ₹200 Sign‑Up Bonus on Probo – Referral Code QP7X1M</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  <style>
+    :root{
+      --probo-main:#6610f2;
+      --probo-accent:#6f42c1;
+    }
+    body{
+      font-family: 'Poppins', sans-serif;
+      scroll-behavior: smooth;
+    }
+    .hero{
+      background: linear-gradient(135deg,var(--probo-main),var(--probo-accent));
+      color:#fff;
+      padding: 120px 0;
+      text-align:center;
+    }
+    .section-title{
+      margin-bottom:2rem;
+      font-weight:600;
+    }
+    .benefit-icon{
+      font-size:3rem;
+      color:var(--probo-main);
+    }
+    .ref-code{
+      font-size:1.5rem;
+      font-weight:700;
+      color:#ffc107;
+      text-shadow:1px 1px 2px rgba(0,0,0,.3);
+    }
+    .btn-signup{
+      background-color:#ffc107;
+      border:none;
+      font-weight:600;
+    }
+    .btn-signup:hover{
+      background-color:#e0a800;
+    }
+    footer{
+      background:#f8f9fa;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="#">Probo Bonus</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="#how">How It Works</a></li>
+        <li class="nav-item"><a class="nav-link" href="#benefits">Benefits</a></li>
+        <li class="nav-item"><a class="nav-link" href="#steps">Get Started</a></li>
+        <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
+        <li class="nav-item"><a class="btn btn-signup ms-lg-3" href="https://probo-in.onelink.me/1kre/8lmlj7ag" target="_blank">Sign Up</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero d-flex align-items-center" id="home">
+  <div class="container">
+    <h1 class="display-5 fw-semibold">Get ₹200 Instantly on Probo!</h1>
+    <p class="lead mb-4">Use Referral Code <span class="ref-code">QP7X1M</span> during sign‑up and start predicting, winning, and earning on India's #1 opinion trading app.</p>
+    <a href="https://probo-in.onelink.me/1kre/8lmlj7ag" class="btn btn-lg btn-warning btn-signup">Claim Your Bonus</a>
+  </div>
+</section>
+
+<!-- Section 1: How It Works -->
+<section id="how" class="py-5">
+  <div class="container">
+    <h2 class="section-title text-center">How Probo Works</h2>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="text-center px-3">
+          <div class="benefit-icon mb-3"><i class="bi bi-person-plus"></i></div>
+          <h5>Create Account</h5>
+          <p>Download Probo, register with your mobile number, and apply code <strong>QP7X1M</strong> to unlock your ₹200 bonus.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="text-center px-3">
+          <div class="benefit-icon mb-3"><i class="bi bi-bar-chart"></i></div>
+          <h5>Trade Opinions</h5>
+          <p>Predict outcomes of sports, finance, politics, entertainment &amp; more. Buy ‘Yes’ or ‘No’ positions and watch the odds move in real‑time.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="text-center px-3">
+          <div class="benefit-icon mb-3"><i class="bi bi-cash-coin"></i></div>
+          <h5>Win &amp; Withdraw</h5>
+          <p>Settle your trades instantly when results are declared and withdraw your profits straight to your bank or UPI.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 2: Benefits -->
+<section id="benefits" class="py-5 bg-light">
+  <div class="container">
+    <h2 class="section-title text-center">Why Join with QP7X1M?</h2>
+    <div class="row gy-4">
+      <div class="col-md-6">
+        <div class="d-flex align-items-start">
+          <span class="benefit-icon me-3"><i class="bi bi-gift"></i></span>
+          <div>
+            <h6>₹200 Sign‑Up Bonus</h6>
+            <p>Instant credit in your wallet – no minimum deposit required.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="d-flex align-items-start">
+          <span class="benefit-icon me-3"><i class="bi bi-percent"></i></span>
+          <div>
+            <h6>Zero Brokerage</h6>
+            <p>Trade opinions without hidden fees; keep every rupee you earn.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="d-flex align-items-start">
+          <span class="benefit-icon me-3"><i class="bi bi-people"></i></span>
+          <div>
+            <h6>Refer &amp; Earn</h6>
+            <p>Invite friends and receive up to ₹5,000 per referral as they trade.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="d-flex align-items-start">
+          <span class="benefit-icon me-3"><i class="bi bi-clock-history"></i></span>
+          <div>
+            <h6>Instant Payouts</h6>
+            <p>Withdraw winnings 24×7 directly to your bank or UPI—no delays!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 3: Steps -->
+<section id="steps" class="py-5">
+  <div class="container">
+    <h2 class="section-title text-center">Start Earning in 3 Easy Steps</h2>
+    <ol class="list-group list-group-numbered">
+      <li class="list-group-item">Tap the <strong>Sign‑Up</strong> button below to download Probo.</li>
+      <li class="list-group-item">Register and enter referral code <strong>QP7X1M</strong> when prompted.</li>
+      <li class="list-group-item">Use your ₹200 bonus to place your first opinion trade!</li>
+    </ol>
+    <div class="text-center mt-4">
+      <a href="https://probo-in.onelink.me/1kre/8lmlj7ag" class="btn btn-lg btn-signup">Sign Up Now</a>
+    </div>
+  </div>
+</section>
+
+<!-- Section 4: FAQs -->
+<section id="faqs" class="py-5 bg-light">
+  <div class="container">
+    <h2 class="section-title text-center">Frequently Asked Questions</h2>
+    <div class="accordion accordion-flush" id="faqAccordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="q1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#a1">Is Probo legal in India?</button></h2>
+        <div id="a1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">Yes. Probo operates legally under Indian laws as it deals with skills-based opinion trading.</div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="q2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#a2">Do I need to deposit money to claim the bonus?</button></h2>
+        <div id="a2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">No. The ₹200 bonus is credited instantly after a successful sign‑up with code QP7X1M.</div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="q3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#a3">How fast can I withdraw my earnings?</button></h2>
+        <div id="a3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">Payout requests are processed instantly, 24×7, to your bank or UPI ID.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 5: Call to Action -->
+<section class="py-5 text-center" style="background:var(--probo-main);color:#fff;">
+  <div class="container">
+    <h2 class="mb-3">Ready to Profit from Your Opinions?</h2>
+    <p class="mb-4">Join thousands of traders already earning on Probo. Your ₹200 welcome credit is waiting!</p>
+    <a href="https://probo-in.onelink.me/1kre/8lmlj7ag" class="btn btn-lg btn-warning btn-signup">Download &amp; Sign Up</a>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="py-3">
+  <div class="container text-center">
+    <small>&copy; 2025 Probo Referral Landing. All rights reserved.</small>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
